@@ -181,6 +181,9 @@
     top: 130px;
     left: 101px;
 }
+.text-group #text-h6{
+    color: red;
+}
 .tex-img{
     width: 990px;
     height: 250px;
@@ -193,4 +196,18 @@
 .tex-img img{
     margin: 5px;
     border: 5px solid red;
+    border-radius: 20px;
+}
+.text-group2{
+    width: 990px;
+    height: 250px;
+    display: flex;
+    position: relative;
+    top: 150px;
+    left: 101px;
+}
+.text-group2 img{
+    margin: 5px;
+    border: 5px solid red;
+    border-radius: 20px;
 }
