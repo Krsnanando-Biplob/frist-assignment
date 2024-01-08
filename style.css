@@ -1,11 +1,10 @@
 *{
     margin: 0;
     padding: 0;
-    width: 99.98%;
+    width: 98.55%;
     top: 50px;
     left: 140px;
     border-radius: 16px;
-
 }
 .header-content{
     width: 1000px;
@@ -87,4 +86,111 @@
     width: 100px;
     height: 35px;
     background-color: red;
+}
+.dis-con{
+    width: 1000px;
+    height: 364px;
+    display: flex;
+    margin: 20px auto;
+    align-items: center;
+    background-color: rgb(156, 151, 151);
+}
+.dis-con .new-of{    
+    margin: 5px;
+    position: relative;
+    left: 10px;
+    top: -10px;
+}
+.dis-con .new-of .dis-h6{
+    color: red;
+    font-size: 18px;
+}
+#dis-image{
+    margin: 0px;
+    padding: 0px;
+    border: 10px solid red;
+    border-radius: 100%;
+    position: relative;
+    left: -2px;
+    top: -3px;
+}
+.dis-2024{
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    left: 100px;
+    top: -5px;
+
+}
+.dis-2024 #dis-date{
+    color: red;
+    font-size: 27px;
+}
+.dis-2024 #dis-img1{
+    height: 100px;
+    width: 100px;
+    
+}
+.holidays{
+    width: 1000px;
+    height: 300px;
+    margin: 10px auto;
+    text-align: center;
+}
+.holidays #holi-h1 span{
+    color: red;
+}
+.holi-img{
+    width: 1000px;
+    height: 364px;
+    display: flex;
+}
+.holi-img #holi-img1{
+    width: 674px;
+    height: 500px;
+    position: relative;
+    z-index: 1;
+    left: -20px;
+}
+.holi-img #holi-img2{
+    width: 206px;
+    height: 206px;
+    position: relative;
+    z-index: 1;
+    left: -10px;
+    top: 100px;
+
+}
+.holi-img #holi-img3{
+    width: 420px;
+    height: 300px;
+    position: relative;
+    left: -108px;
+}
+.img-inline #img-re2{
+    margin: 0px auto;
+    width: 1000px;
+    height: 190px;
+    position: relative;
+    left: 101px;
+    top: 110px;
+}
+.text-group{
+    width: 1000px;
+    position: relative;
+    top: 130px;
+    left: 101px;
+}
+.tex-img{
+    width: 990px;
+    height: 250px;
+    display: flex;
+    position: relative;
+    top: 140px;
+    left: 101px;
+    
+}
+.tex-img img{
+    margin: 5px;
+    border: 5px solid red;
 }
