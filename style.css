@@ -305,10 +305,11 @@
     font-size: 20px;
     
 } */
-#copy, strong{
+#copy .stro{
     color: #fff;
     font-size: 20px;
     text-align: center;
     position: relative;
+    left: 510px;
 }
 
