@@ -39,6 +39,10 @@
     color: rgb(254, 7, 7);
     font-size: 45px;
 }
+.dis-img{
+    border: 3px solid red;
+    box-shadow: 20px 18px rgb(194, 190, 190);
+}
 .welcome-party{
     width: 1000px;
     height: 380px;
@@ -210,4 +214,54 @@
     margin: 5px;
     border: 5px solid red;
     border-radius: 20px;
+}
+.sub-1{
+    width: 1000px;
+    height: auto;
+    margin: 20px auto;
+
+}
+.sub-1 #sub-img{
+    width: 200px;
+    position: relative; 
+    left: 39%;
+    top: 160px;
+}
+.sub-1 #sub-h1{
+    color: red;
+    position: relative;
+    top: 160px;
+    left: 0%;
+    text-align: center;
+}
+.sub-1 #sub-p{
+    position: relative;
+    top: 170px;
+    text-align: center;
+    left: 0%;
+}
+.sub-1 #email{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 10px;
+    margin: 20px;
+    position: relative;
+    top: 170px;
+    width: 600px;
+}
+.sub-1 #email-inp{
+    width: 850px;
+    padding: 15px;
+    border: 3px solid red;
+    border-radius: 5x;
+    font: 15px;
+}
+.sub-1 #button{
+    padding: 10px 20px;
+    border: none;
+    background-color: red;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
 }
